@@ -131,6 +131,8 @@ body {
     box-sizing: border-box;
     border-radius: 50%;
     overflow: hidden;
+    transform: translateZ(0);
+    box-shadow: 0 0 15px #bbb;
     position: relative;
     margin-right: 30px;
 
